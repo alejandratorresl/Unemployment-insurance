@@ -1,7 +1,7 @@
 ********************************************************************************
-* Calculate probabilities 
+* Calculate transition probabilities 
 ********************************************************************************
-global dir "C:\Users\MTORRESLEON\Dropbox\Alejandra_RA\Unemployment insurance"
+global dir ""
 cd "$dir"
 
 use "Data\Clean data\insurance_ipums_v1.dta", clear
