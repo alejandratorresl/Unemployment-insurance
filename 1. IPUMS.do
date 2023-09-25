@@ -1,7 +1,7 @@
 * NOTE: You need to set the Stata working directory to the path
 * where the data file is located.
 set more off
-global dir "C:\Users\MTORRESLEON\Dropbox\Alejandra_RA\Unemployment insurance"
+global dir ""
 
 cd "$dir\Data\Raw data\cps_00007.dat"
 * NOTE: You need to set the Stata working directory to the path
