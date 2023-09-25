@@ -2,7 +2,7 @@
 * Estimations
 ********************************************************************************
 
-global dir "C:\Users\MTORRESLEON\Dropbox\Alejandra_RA\Unemployment insurance"
+global dir ""
 cd "$dir"
 
 use "Data\Clean data\insurance_clean.dta", clear
